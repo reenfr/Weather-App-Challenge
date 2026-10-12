@@ -1,0 +1,25 @@
+﻿{
+  "name": "Weather Now",
+  "short_name": "Weather",
+  "description": "Weather forecast app with current conditions, hourly updates, and multi-day outlook.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#02012c",
+  "theme_color": "#02012c",
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/images/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/images/icon-sunny.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
